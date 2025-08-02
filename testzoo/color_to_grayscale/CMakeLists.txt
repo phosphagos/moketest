@@ -1,0 +1,2 @@
+add_executable(test_color_to_grayscale color_to_grayscale.cpp)
+target_link_libraries(test_color_to_grayscale PUBLIC moketest)
